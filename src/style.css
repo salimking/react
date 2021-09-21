@@ -1,0 +1,109 @@
+
+.pr {
+    margin: auto;
+    height: 200px;
+    width: 700px;
+   
+}
+
+h3{
+    
+    text-align: center;
+}
+#imgm {
+    width: 420px;
+    height: 400px;
+    margin: auto;
+    border-radius: 70%;
+    background-image: url("./imgs/man.jpg");
+    background-repeat: no-repeat;
+    background-size: 430px ;
+
+
+}
+
+#imgw {
+    background-image: url("./imgs/woman.jpg");
+    
+    margin: auto;
+    width: 420px;
+    height: 400px;
+    border-radius: 70%;
+    background-color: chartreuse;
+    background-size: 350px ;
+}
+#imgn {
+    background-image: url("./imgs/new.jpg");
+    margin: auto;
+    width: 420px;
+    height: 400px;
+    border-radius: 70%;
+    background-size: 380px ;
+
+}
+#contents a{
+    text-decoration: none;
+}
+.hero-btn {
+        padding: 25px 29px;
+    }
+
+ #cart i{
+     
+     font-size: 24px;
+    
+    
+ }
+    #btn {
+        animation-delay: 1s;
+        background: #25fdcb;
+       
+        text-transform: capitalize;
+        color: #fff;
+        cursor: pointer;
+        display: inline-block;
+        font-size: 18px;
+        font-weight: 400;
+        letter-spacing: 1px;
+        line-height: 0;
+        margin-bottom: 0;
+        padding: 27px 44px;
+        border-radius: 25px;
+        margin: 10px;
+        cursor: pointer;
+        transition: color 0.4s linear;
+        position: relative;
+        z-index: 1;
+        border: 0;
+        overflow: hidden;
+        margin: 0;
+        
+    }    
+#contents{
+    margin: auto;
+    margin-top: 200px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 100px;
+   
+}
+#s{
+    margin-left:150px;
+    
+}
+
+.Banner{
+    margin: auto;
+   width: 1320px;
+   height: 700px;
+}
+.carousel-item {
+    height: 500px;
+    width: 1320px;
+  
+}
+.carousel slide{
+    width: 1000px;
+    height: 70px;
+}
